@@ -1,7 +1,7 @@
 # =========================================================================
 # PANCAKESWAP V2/V3 ARBITRAGE BOT - FINAL PRODUCTION v2.1
 # =========================================================================
-# Built by: [AUSTIN BLACK]
+# Built by: [UZORCHUKWU LIVINUS]
 # Status: PRODUCTION READY WITH ALL UPGRADES
 # Last Updated: December 28, 2024
 # UPGRADES: Two V3 pools, updated fees, fixed slippage
